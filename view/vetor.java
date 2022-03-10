@@ -1,4 +1,5 @@
 package view;
+import controller.VetorThreads;
 
 public class vetor {
 
